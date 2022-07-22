@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://github.com/tiagosassis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Oii, eu sou o Tiago👋
 
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
@@ -5,11 +10,6 @@
 - 👯 Tenho como alguns dos meus objetivos aprender Python, PHP, Java, JavaScript, C/C++ e C#, CSS/HTML
 - 🤔 Atualmente estou aprendendo Java e C
 
-<div align="center">
-  <a href="https://github.com/tiagosassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosassis&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Tiago-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
