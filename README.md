@@ -1,14 +1,14 @@
-<div align="left">
-  <a href="https://github.com/tiagosassis">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagosassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+//<div align="left">
+//  <a href="https://github.com/tiagosassis">
+//  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagosassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+//</div>
 
 # Oii, eu sou o Tiago👋
 
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como alguns dos meus objetivos me tornar um desenvolvedor full stack
-- 🤔 Atualmente estou aprendendo Durt para desenvolvimento mobile
+- 🤔 Atualmente estou desenvolvendo aplicativo mobile com dart e flutter
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Tiago-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
