@@ -1,8 +1,3 @@
-//<div align="left">
-//  <a href="https://github.com/tiagosassis">
-//  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagosassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-//</div>
-
 # Oii, eu sou o Tiago👋
 
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
