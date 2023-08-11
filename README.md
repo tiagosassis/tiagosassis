@@ -1,7 +1,6 @@
 # Oii, eu sou o Tiago👋
 
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
-<<<<<<< HEAD
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como objetivo me tornar um desenvolvedor FullStack
 - 🤔 Atualmente estudando PHP para desenvolvimento Back-End
