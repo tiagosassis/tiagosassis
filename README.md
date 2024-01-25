@@ -1,9 +1,10 @@
-# Oii, eu sou o Tiago👋
+# Olá, eu sou o Tiago👋
 
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como objetivo me tornar um desenvolvedor FullStack
 - 🤔 Atualmente estudando HTML5 e CSS3 para desenvolvimento Front-End
+- <a href="https://tiagosassis.github.io/projeto-android/" target="_blank">Projeto Android</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
