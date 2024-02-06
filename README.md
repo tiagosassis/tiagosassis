@@ -3,7 +3,7 @@
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como objetivo me tornar um desenvolvedor FullStack
-- 🤔 Atualmente estudando HTML5 e CSS3 para desenvolvimento Front-End
+- 🤔 Atualmente estudando Docker
 - <a href="https://tiagosassis.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a>
 - <a href="https://tiagosassis.github.io/projeto-cordel/" target="_blank" rel="external">Projeto Cordel</a>
 
