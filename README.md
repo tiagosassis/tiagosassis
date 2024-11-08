@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como objetivo me tornar um desenvolvedor FullStack
 - 🤔 Atualmente estudando Docker e iniciando os estudos sobre React
-- <a href="https://tiagosassis.github.io/Formulario-Relatorio/" target="_blank" rel="external">Relatório</a>
+- <a href="https://tiagosassis.github.io/formulario-relatorio/" target="_blank" rel="external">Relatório</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
