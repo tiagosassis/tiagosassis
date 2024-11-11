@@ -3,7 +3,7 @@
 - 🔭 Eu sou estudante na UFCAT - Universidade Federal de Catalão
 - 🌱 Atualmente estou cursando Ciência da Computação
 - 👯 Tenho como objetivo me tornar um desenvolvedor FullStack
-- 🤔 Atualmente estudando Docker e iniciando os estudos sobre React
+- 🤔 Atualmente estudando React
 - <a href="https://tiagosassis.github.io/formulario-relatorio/" target="_blank" rel="external">Relatório</a>
 
 <div style="display: inline_block"><br>
